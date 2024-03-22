@@ -22,6 +22,8 @@
     <list default="true" id="5401243c-162f-42cf-a31c-47420536abd5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/player/PickUp.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/player/PickUp.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,13 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Resurs/Resurses.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/UI/UiController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/player/PickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Slot.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/Slot.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/PickUp.cs" />
       </list>
     </option>
   </component>
@@ -88,6 +97,10 @@
       <workItem from="1710173054649" duration="469000" />
       <workItem from="1710185577826" duration="1088000" />
       <workItem from="1710344663378" duration="1376000" />
+      <workItem from="1710872871468" duration="895000" />
+      <workItem from="1710877385218" duration="2294000" />
+      <workItem from="1710941804289" duration="12000" />
+      <workItem from="1710948162759" duration="1866000" />
     </task>
     <servers />
   </component>
@@ -103,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

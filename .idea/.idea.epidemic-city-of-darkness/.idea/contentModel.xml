@@ -11,7 +11,12 @@
             <e p="FightStarter.cs" t="Include" />
           </e>
           <e p="player" t="Include">
-            <e p="PickUp.cs" t="Include" />
+            <e p="Inventor" t="Include">
+              <e p="Inventory.cs" t="Include" />
+              <e p="Item.cs" t="Include" />
+              <e p="PickUp.cs" t="Include" />
+              <e p="Slot.cs" t="Include" />
+            </e>
           </e>
           <e p="player.cs" t="Include" />
           <e p="Resurs" t="Include">
