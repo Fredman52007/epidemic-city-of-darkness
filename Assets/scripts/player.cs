@@ -13,13 +13,22 @@ public class player : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    void FixedUpdate()
+    void Update()
     {
         MovementLogic();
     }
 
     private void MovementLogic()
     {
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            speed = 8f;
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            speed = 4f;
+            
+        }
         float moveHorizontal = Input.GetAxis("Horizontal");
         transform.position += new Vector3(moveHorizontal, 0, 0) * Time.deltaTime * speed;
 
@@ -29,4 +38,5 @@ public class player : MonoBehaviour
         anim.SetFloat("moveX", moveHorizontal);
         anim.SetFloat("moveY", moveVertical);
     }
+    
 }

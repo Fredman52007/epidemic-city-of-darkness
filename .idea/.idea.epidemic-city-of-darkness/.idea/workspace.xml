@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5401243c-162f-42cf-a31c-47420536abd5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.epidemic-city-of-darkness/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/player/PickUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/player/PickUp.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fightstart.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fightstart.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/Slot.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/Item.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/player/Inventor/PickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/player.cs" />
       </list>
     </option>
   </component>
@@ -101,6 +101,8 @@
       <workItem from="1710877385218" duration="2294000" />
       <workItem from="1710941804289" duration="12000" />
       <workItem from="1710948162759" duration="1866000" />
+      <workItem from="1711633818881" duration="303000" />
+      <workItem from="1711634604632" duration="1224000" />
     </task>
     <servers />
   </component>
